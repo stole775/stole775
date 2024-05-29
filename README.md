@@ -22,9 +22,9 @@ Here are some of the projects I've been working on recently:
 - **[SE-201](https://github.com/stole775/SE-201):** Project for the SE-201 course.
 - **[It350-projekat](https://github.com/stole775/It350-projekat):** Project for the IT350 course.
 - **[CS230-projekat](https://github.com/stole775/CS230-projekat):** Java EE - Restful project.
-- **[IT255-DZ06](https://github.com/stole775/IT255-DZ06):** TypeScript project.
-- **[IT255-DZ07](https://github.com/stole775/IT255-DZ07):** Added data.service for data transfer between components.
-- **[Travel Agency Application](https://github.com/stole775/turisticka-agencija):** A website for travel bookings using Spring Boot and Angular.
+- **[IT355-Spring](https://github.com/stole775/IT355-Projekat):** Springboot project for managing travel agency.
+- **[IT355-Angular](https://github.com/stole775/IT355-Projekat-Angular):** Angular project for managing travel agency.
+- **[Social media](https://github.com/stole775/IT255-Projekat):** A website like Instagram in angular.
 - **[Sudoku Solver](https://github.com/stole775/CS323-sudoku):** A C/C++ project with file loading, grid generation, and performance tracking.
 
 
